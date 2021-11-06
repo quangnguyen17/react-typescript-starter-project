@@ -1,6 +1,6 @@
 # react-typescript-template
 
-- React/Typescript production-ready project template with all the necessary dev tools so that you can start building your project immediately 🧑🏻‍💻🚀.
+- React/Typescript production-ready project template with all the necessary dev tools so that you can start building your project immediately 🧑🏻‍💻 🚀.
 - What does this project template come with?
   - [Jest](https://jestjs.io/) for Unit Testing (from [create-react-app](https://create-react-app.dev/)).
   - [Cypress](https://www.cypress.io/) for E2E Testing.
