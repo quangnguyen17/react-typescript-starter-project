@@ -24,7 +24,8 @@
     "eject": "react-scripts eject",
     "prettier": "npx prettier --write '**/*.{js,ts,tsx}'",
     "cy:ci": "cypress run",
-    "cy": "./node_modules/.bin/cypress open"
+    "cy": "./node_modules/.bin/cypress open",
+    "prepare": "husky install"
   },
   "eslintConfig": {
     "extends": [
@@ -43,11 +44,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run prettier && npm run test:ci"
-    }
   },
   "devDependencies": {
     "cypress": "^8.7.0",
