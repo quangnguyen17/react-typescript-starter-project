@@ -44,8 +44,14 @@
       "last 1 safari version"
     ]
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run prettier && npm run test:ci"
+    }
+  },
   "devDependencies": {
     "cypress": "^8.7.0",
+    "husky": "^7.0.4",
     "prettier": "^1.19.1",
     "prettierrc": "^0.0.0-5"
   }
