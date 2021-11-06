@@ -38,11 +38,8 @@ npm run start
 
 ```bash
 npm run test
-```
 
-- for CI/CD:
-
-```bash
+# for CI/CD
 npm run test:ci
 ```
 
@@ -50,11 +47,8 @@ npm run test:ci
 
 ```bash
 npm run cy
-```
 
-- for CI/CD:
-
-```bash
+# for CI/CD
 npm run cy:ci
 ```
 
@@ -62,4 +56,10 @@ npm run cy:ci
 
 ```bash
 npm run prettier
+```
+
+#### To build project for production:
+
+```bash
+npm run build
 ```
