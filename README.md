@@ -1,6 +1,6 @@
 # react-typescript-template
 
-- React/Typescript production ready project template with all the necessary dev tools so that you can start coding immediately.
+- React/Typescript production-ready project template with all the necessary dev tools so that you can start building your project immediately 🧑🏻‍💻 🚀.
 - What does this project template come with?
   - [Jest](https://jestjs.io/) for Unit Testing (from [create-react-app](https://create-react-app.dev/)).
   - [Typescript](https://www.typescriptlang.org/) support (from [create-react-app](https://create-react-app.dev/)).
@@ -58,7 +58,7 @@ npm run cy:ci
 npm run prettier
 ```
 
-#### To build project for production:
+#### To create a production build:
 
 ```bash
 npm run build
