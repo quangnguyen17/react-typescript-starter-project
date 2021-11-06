@@ -58,7 +58,7 @@ npm run cy:ci
 npm run prettier
 ```
 
-#### To build project for production:
+#### To create a production build:
 
 ```bash
 npm run build
