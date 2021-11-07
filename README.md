@@ -6,6 +6,7 @@
   - [Typescript](https://www.typescriptlang.org/) support (from [create-react-app](https://create-react-app.dev/)).
   - [Cypress](https://www.cypress.io/) for E2E Testing.
   - [Prettier](https://prettier.io/) for code formatting.
+  - [Husky](https://github.com/typicode/husky) for git hooks to improve your git commits.
 
 ## Prerequisites
 
@@ -63,3 +64,7 @@ npm run prettier
 ```bash
 npm run build
 ```
+
+#### Husky hooks:
+
+- _`pre-commit`_: will run [Prettier](https://prettier.io/) code formatting and unit tests.
