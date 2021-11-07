@@ -2,8 +2,8 @@
 
 - React/Typescript production-ready project template with all the necessary dev tools so that you can start building your project immediately 🧑🏻‍💻 🚀.
 - What does this template come with?
-  - [Jest](https://jestjs.io/) for Unit Testing (from [create-react-app](https://create-react-app.dev/)).
-  - [Typescript](https://www.typescriptlang.org/) support (from [create-react-app](https://create-react-app.dev/)).
+  - [Jest](https://jestjs.io/) for Unit Testing (from [`create-react-app`](https://create-react-app.dev/)).
+  - [Typescript](https://www.typescriptlang.org/) support (from [`create-react-app`](https://create-react-app.dev/)).
   - [Cypress](https://www.cypress.io/) for E2E Testing.
   - [Prettier](https://prettier.io/) for code formatting.
   - [Husky](https://github.com/typicode/husky) for git hooks to ensure better commits for your code.
@@ -15,13 +15,11 @@
 
 ## How to use this template
 
-- Run the command below to create a new project:
+Run the command below to create a new project, replace `your-project-name` with your actual project name.
 
 ```bash
 git clone https://github.com/quangnguyen17/react-typescript-template.git your-project-name
 ```
-
-_* Replace `your-project-name` with your actual project name_
 
 #### To install project dependencies:
 
@@ -67,4 +65,4 @@ npm run build
 
 #### Husky hooks:
 
-- _`pre-commit`_: will run [Prettier](https://prettier.io/) code formatting and unit tests.
+- `pre-commit`: will run [Prettier](https://prettier.io/) code formatting and unit tests.
