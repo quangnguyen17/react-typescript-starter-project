@@ -13,15 +13,15 @@
 - Must have [git](https://git-scm.com/) installed.
 - Must have [Node](https://nodejs.org/en/) latest LTS version installed.
 
-## How to use template
+## How to use this template
 
-#### To start a new project using this template:
+- Run the command below to create a new project:
 
 ```bash
 git clone https://github.com/quangnguyen17/react-typescript-template.git your-project-name
 ```
 
---> Replace `your-project-name` with your actual project name <--
+_* Replace `your-project-name` with your actual project name_
 
 #### To install project dependencies:
 
