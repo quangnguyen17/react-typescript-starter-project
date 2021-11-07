@@ -15,7 +15,7 @@
 
 ## How to use this template
 
-Run the command below to create a new project, replace `your-project-name` with your actual project name.
+Run the command below to create a new project and replace `your-project-name` with your actual project name:
 
 ```bash
 git clone https://github.com/quangnguyen17/react-typescript-template.git your-project-name
