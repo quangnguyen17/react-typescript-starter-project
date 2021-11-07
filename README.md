@@ -6,7 +6,7 @@
   - [Typescript](https://www.typescriptlang.org/) support (from [create-react-app](https://create-react-app.dev/)).
   - [Cypress](https://www.cypress.io/) for E2E Testing.
   - [Prettier](https://prettier.io/) for code formatting.
-  - [Husky](https://github.com/typicode/husky) for git hooks to improve your git commits.
+  - [Husky](https://github.com/typicode/husky) for git hooks to ensure better commits for your code.
 
 ## Prerequisites
 
@@ -21,7 +21,7 @@
 git clone https://github.com/quangnguyen17/react-typescript-template.git your-project-name
 ```
 
-Replace _**your-project-name**_ with your actual project name.
+--> Replace `your-project-name` with your actual project name <--
 
 #### To install project dependencies:
 
