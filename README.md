@@ -65,4 +65,4 @@ npm run build
 
 #### Husky hooks:
 
-- `pre-commit` invokes [Prettier](https://prettier.io/) code formatting and unit tests.
+- `pre-commit` hook runs [Prettier](https://prettier.io/) code formatting and unit tests.
